@@ -50,7 +50,7 @@
 }
 
 .snake{
-    background-color: purple;
+    background: linear-gradient(red, purple);
     border: .25vmin solid white;
     border-radius: 12px;
 }
